@@ -1,5 +1,5 @@
 # Image-Enhancement
-Exploring various image enhancement techniques
+Exploring various Digital Imaging operations
 
 Such as:-
   - Histogram Equalization
